@@ -1,0 +1,12 @@
+{
+  "name": "marketing-skills",
+  "version": "2.13.0",
+  "description": "Marketing agent skills by Corey Haines: CRO, copywriting, SEO/AEO, ads, analytics, growth, sales enablement",
+  "skills": "./skills/",
+  "homepage": "https://github.com/coreyhaines31/marketingskills",
+  "license": "MIT",
+  "interface": {
+    "displayName": "Marketing Skills",
+    "shortDescription": "CRO, copywriting, SEO/AEO, ads, analytics, growth, and sales skills"
+  }
+}
